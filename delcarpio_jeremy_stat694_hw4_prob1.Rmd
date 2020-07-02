@@ -1,0 +1,13 @@
+---
+title: "GitHub Test"
+author: "Jeremy Del Carpio"
+date: "7/01/2020"
+output: html_notebook
+---
+
+###### This is a test .rmd file in order to get practice configuring RStudio to work with github.
+
+```{r}
+mtcars
+```
+
